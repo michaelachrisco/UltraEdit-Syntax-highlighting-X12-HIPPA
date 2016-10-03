@@ -4,8 +4,8 @@
 /Colors Auto Back = 1,1,1,1,1,
 /Font Style = 0,0,0,0,0,
 /Delimiters =~*:<>|^
-/Open Fold Strings = "ISA" "GS" "ST" "LS" "INS"
-/Close Fold Strings = "IEA" "GE" "SE" "LE" "DTP*348"
+/Open Fold Strings = "ISA" "GS" "ST" "LS" "INS" "INS"
+/Close Fold Strings = "IEA" "GE" "SE" "LE" "DTP*348" "DTP*349"
 /C1"Segment ID" Colors = 16711680 Colors Back = 16777215 Colors Auto Back = 1 Font Style = 0
 AAA ACT ADX AK1 AK2 AK3 AK4 AK5 AK9 AMT
 BEG BGN BHT BPR
